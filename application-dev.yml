@@ -1,2 +1,5 @@
+spring:
+  application:
+   name:Config-server
 welcom:
     name: reddy
